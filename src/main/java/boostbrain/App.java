@@ -13,6 +13,10 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         System.out.println( "Hello new branch!" );
+<<<<<<< HEAD
+=======
+        System.out.println( "Hello branch master!" );
+>>>>>>> master
     }
 	
 	
