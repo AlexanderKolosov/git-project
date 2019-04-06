@@ -1,0 +1,6 @@
+# folder resources
+.idea/
+target/
+
+# txt-files
+src/test/java/boostbrain/*.txt
