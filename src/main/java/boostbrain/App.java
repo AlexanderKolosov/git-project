@@ -16,6 +16,8 @@ public class App
 <<<<<<< HEAD
 =======
         System.out.println( "Hello branch master!" );
+        System.out.println( "Hello branch MMM!" );
+		
 >>>>>>> master
     }
 	
